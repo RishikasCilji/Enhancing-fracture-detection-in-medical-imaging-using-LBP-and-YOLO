@@ -120,4 +120,4 @@ results = model.train(data=new_yaml_path, epochs=100, imgsz=640)
 
 # Step 8: Evaluate
 val_results = model.val()
-print("📈 Validation results:", val_results)
+print(" Validation results:", val_results)
