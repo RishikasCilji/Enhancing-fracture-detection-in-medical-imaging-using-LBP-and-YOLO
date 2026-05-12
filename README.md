@@ -1,4 +1,4 @@
-# Enhacing-fracture-detection-in-medical-imaging-using-LBP-and-YOLO
+# Enhancing-fracture-detection-in-medical-imaging-using-LBP-and-YOLO
 
 This project presents an automated bone fracture detection system using YOLOv8 integrated with Local Binary Patterns (LBP) for enhanced feature extraction from X-ray images.
 The system is designed to detect and classify multiple fracture types from radiographic images with improved accuracy and generalization.
